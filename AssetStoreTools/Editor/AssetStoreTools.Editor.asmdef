@@ -1,0 +1,11 @@
+{
+    "name": "AssetStoreTools.Editor",
+    "references": [
+        "AssetStoreTools.Core",
+        "AssetStoreTools.Validator"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
