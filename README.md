@@ -17,6 +17,6 @@ I plan (and hopefully along with fellow publishers) to improve the tool by addin
 
 ## Isn't Decompiling code Illegal?
 
-I have received a greenlight from Asset Store Content Manager that allows me to decompile the source-code **as long as the tool isn't being commercially redistributed**.
+I have received a greenlight from Asset Store Content Manager that allows me to decompile the source-code **as long as the tool isn't being commercially redistributed and Unity branding is not misused**.
 
 However, I would be forced to set this repository to private should they change their stance (but probability of that happening is close to zero).
